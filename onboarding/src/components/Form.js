@@ -108,10 +108,7 @@ export default function Form() {
             />
           </label>
         </div>
-        <button
-          name="submit"
-          // disabled={disabled}
-        >
+        <button name="submit" disabled={disabled}>
           Submit
         </button>
       </form>
